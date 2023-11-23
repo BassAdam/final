@@ -1,0 +1,6 @@
+baseURL = "https://bassadam.github.io/final/"
+languageCode = "fr-fr"
+title = "Bienvenue sur mon blog"
+theme = "beautifulhugo"
+
+
