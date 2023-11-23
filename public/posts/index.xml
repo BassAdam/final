@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Bienvenue sur mon blog</title>
+    <title>Posts on Beautiful Hugo</title>
     <link>https://bassadam.github.io/final/posts/</link>
-    <description>Recent content in Posts on Bienvenue sur mon blog</description>
+    <description>Recent content in Posts on Beautiful Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
+    <language>en</language>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
     <lastBuildDate>Thu, 23 Nov 2023 01:19:02 +0100</lastBuildDate>
     <atom:link href="https://bassadam.github.io/final/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Le markdown (1er post)</title>
       <link>https://bassadam.github.io/final/posts/post1/deuxiemearticle/</link>
-      <pubDate>Thu, 23 Nov 2023 01:19:02 +0100</pubDate>
+      <pubDate>Thu, 23 Nov 2023 01:19:02 +0100</pubDate><author>youremail@domain.com (Some Person)</author>
       <guid>https://bassadam.github.io/final/posts/post1/deuxiemearticle/</guid>
       <description>L&amp;rsquo;Origine du Markdown Le Markdown est un langage de balisage léger créer par John Gruber et Aaron Swartz en 2004. Il a été conçu pour être facile à écrire et à lire, tout en permettant la conversion facile en HTML. Le but était de créer un langage qui soit aussi lisible que du texte brut, mais qui puisse également être converti en documents structurés.
 Pourquoi le Markdown ? Simplicité : La syntaxe du Markdown est simple et intuitive.</description>
@@ -19,7 +21,7 @@ Pourquoi le Markdown ? Simplicité : La syntaxe du Markdown est simple et intuit
     <item>
       <title>Hugo / Github Pages (2eme post)</title>
       <link>https://bassadam.github.io/final/posts/post2/premierarticle/</link>
-      <pubDate>Thu, 23 Nov 2023 01:14:30 +0100</pubDate>
+      <pubDate>Thu, 23 Nov 2023 01:14:30 +0100</pubDate><author>youremail@domain.com (Some Person)</author>
       <guid>https://bassadam.github.io/final/posts/post2/premierarticle/</guid>
       <description>Hugo : Une Vue Approfondie Origine de Hugo Hugo est un générateur de sites statiques créé par Bjørn Erik Pedersen et développé en Go. Il a été lancé en 2013 avec l&amp;rsquo;objectif de fournir une solution rapide et efficace pour la création de sites web.
 Utilité de Hugo Hugo est largement utilisé pour créer des sites web statiques. Ses principales caractéristiques incluent une performance exceptionnelle, une facilité d&amp;rsquo;utilisation, et une architecture flexible.</description>
