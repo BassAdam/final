@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Beautiful Hugo</title>
-    <link>https://bassadam.github.io/final/</link>
-    <description>Recent content on Beautiful Hugo</description>
+    <title>Posts on Beautiful Hugo</title>
+    <link>https://bassadam.github.io/final/post/</link>
+    <description>Recent content in Posts on Beautiful Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>youremail@domain.com (Some Person)</managingEditor>
     <webMaster>youremail@domain.com (Some Person)</webMaster>
     <lastBuildDate>Thu, 23 Nov 2023 01:19:02 +0100</lastBuildDate>
-    <atom:link href="https://bassadam.github.io/final/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bassadam.github.io/final/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Le markdown (1er post)</title>
       <link>https://bassadam.github.io/final/post/deuxiemearticle/</link>
@@ -25,15 +25,6 @@ Pourquoi le Markdown ? Simplicité : La syntaxe du Markdown est simple et intuit
       <guid>https://bassadam.github.io/final/post/premierarticle/</guid>
       <description>Hugo : Une Vue Approfondie Origine de Hugo Hugo est un générateur de sites statiques créé par Bjørn Erik Pedersen et développé en Go. Il a été lancé en 2013 avec l&amp;rsquo;objectif de fournir une solution rapide et efficace pour la création de sites web.
 Utilité de Hugo Hugo est largement utilisé pour créer des sites web statiques. Ses principales caractéristiques incluent une performance exceptionnelle, une facilité d&amp;rsquo;utilisation, et une architecture flexible.</description>
-    </item>
-    <item>
-      <title>About me</title>
-      <link>https://bassadam.github.io/final/page/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>youremail@domain.com (Some Person)</author>
-      <guid>https://bassadam.github.io/final/page/about/</guid>
-      <description>My name is Inigo Montoya. I have the following qualities:
-I rock a great mustache I&amp;rsquo;m extremely loyal to my family What else do you need?
-my history To be honest, I&amp;rsquo;m having some trouble remembering right now, so why don&amp;rsquo;t you just watch my movie and it will answer all your questions.</description>
     </item>
   </channel>
 </rss>
